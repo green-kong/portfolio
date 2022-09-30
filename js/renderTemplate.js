@@ -142,7 +142,7 @@ function render() {
             <!--<button class="project-button gradient-btn fade" onclick="alert('Will be updated soon.');">See more</button>-->
             <div class="wrapper">
                 <div class="link_wrapper">
-                    <a href="${data.url}">View Project</a>
+                    <a href="${data.url}" target="_blank">View Project</a>
                     <div class="project-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268.832 268.832">
                             <path
