@@ -3,7 +3,7 @@ import {
   skillsData,
   projectsData,
   aboutMeData,
-} from '/data.js';
+} from '../data/data.js';
 
 function render() {
   //=====================================================================
@@ -83,7 +83,7 @@ function render() {
         <section class="buttons">
             <div class="container-btn">
 
-                <a href="${data.urlCV}" class="btn-cv btn-1">
+                <a href="${data.urlCV}" class="btn-cv btn-1" target="_blank">
                     <svg>
                         <rect x="0" y="0" fill="none" width="100%" height="100%" />
                     </svg>
