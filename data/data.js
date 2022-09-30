@@ -49,7 +49,7 @@ export const aboutMeData = {
     흥미로움을 느끼는 개발자</br>
     이동훈 입니다.`,
   titleURL: '이력서 보기',
-  urlCV: './assets/resume.pdf',
+  urlCV: './assets/RESUME.PDF',
 };
 
 //=========================================
